@@ -1,0 +1,13 @@
+* {
+    font-family: Verdana, Helvetica, sans-serif;
+    background-color: rgb(228, 195, 86);
+    justify-content: center;
+    text-align: center;
+}
+
+.recipes {
+    height: 200px;
+    width: 200px;
+    background-color: white;
+    margin: auto;
+}
