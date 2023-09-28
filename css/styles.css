@@ -1,13 +1,25 @@
 * {
     font-family: Verdana, Helvetica, sans-serif;
-    background-color: rgb(228, 195, 86);
+    background-color: rgb(158, 129, 32);
     justify-content: center;
     text-align: center;
 }
 
+.title {
+    font-size: 40px;
+    color: rgb(255, 243, 243);
+}
+
 .recipes {
-    height: 200px;
+    height: auto;
     width: 200px;
     background-color: white;
     margin: auto;
+    padding: 30px 0;
+    text-align: left;
+}
+
+a {
+    background-color: white;
+    margin-left: 30px;
 }
