@@ -29,6 +29,12 @@ img {
     height: auto;
 }
 
+.small-img {
+    background-color: white;
+    width: 50%;
+    height: auto;
+}
+
 a {
     display: block;
     background-color: white;
