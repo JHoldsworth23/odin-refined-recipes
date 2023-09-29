@@ -38,9 +38,13 @@ img {
     height: auto;
 }
 
-.small-img {
-    background-color: white;
+.small-img-size {
     width: 50%;
+    height: auto;
+}
+
+.medium-img-size {
+    width: 70%;
     height: auto;
 }
 
