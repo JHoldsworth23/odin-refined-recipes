@@ -45,6 +45,10 @@ img {
     margin-left: 20px;
 }
 
+.centre-align {
+    text-align: center;
+}
+
 .left-align.text {
     margin: -15px 30px;
     font-size: 14px;
@@ -55,11 +59,22 @@ img {
     font-size: 14px;
 }
 
+.white-bg {
+    background-color: white;
+}
+
 a {
     display: block;
     background-color: white;
     font-size: 16px;
+    color: black;
     text-decoration: none;
     margin: 16px 40px;
     text-align: left;
+}
+
+a:hover {
+    color: rgb(158, 129, 32);
+    text-decoration: underline;
+    font-weight: 700;
 }
