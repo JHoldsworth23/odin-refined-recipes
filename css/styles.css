@@ -55,6 +55,7 @@ img {
 
 .centre-align {
     text-align: center;
+    margin-top: 0;
 }
 
 .left-align.text {
