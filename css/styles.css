@@ -19,7 +19,6 @@
 .recipes {
     height: auto;
     width: 400px;
-    background-color: white;
     margin: 30px auto;
     padding: 30px 0;
 }
@@ -80,7 +79,6 @@ img {
     display: inline-block;
     width: 200px;
     vertical-align: top;
-    background-color: white;
     transform: translate(-25px, 0);
 }
 
@@ -99,7 +97,6 @@ ol li {
 
 a {
     display: block;
-    background-color: white;
     font-size: 16px;
     color: black;
     text-decoration: none;
