@@ -76,6 +76,19 @@ img {
     font-size: 14px;
 }
 
+.side-by-side {
+    display: inline-block;
+    width: 200px;
+    vertical-align: top;
+    background-color: white;
+    transform: translate(-25px, 0);
+}
+
+.side-by-side li {
+    float: left;
+    width: 155px;
+}
+
 ol li {
     padding: 5px 0;
 }
