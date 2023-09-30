@@ -38,6 +38,10 @@ img {
     height: auto;
 }
 
+.margin-bottom {
+    margin-bottom: 20px;
+}
+
 .small-img-size {
     width: 50%;
     height: auto;
@@ -78,7 +82,7 @@ a {
     font-size: 16px;
     color: black;
     text-decoration: none;
-    margin: 16px 40px;
+    margin: 16px 0;
     text-align: left;
 }
 
