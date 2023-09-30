@@ -72,6 +72,10 @@ img {
     font-size: 14px;
 }
 
+ol li {
+    padding: 5px 0;
+}
+
 .white-bg {
     background-color: white;
 }
