@@ -95,3 +95,10 @@ a:hover {
     text-decoration: underline;
     font-weight: 700;
 }
+
+p a {
+    display: inline;
+    font-size: 14px;
+    color: rgb(83, 47, 240);
+    text-decoration: underline;
+}
