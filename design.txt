@@ -1,4 +1,0 @@
-CSS:
-Everything to be centered on the middle of the webpage
-Golden background with the white background around the description and anchor links
-Image has to be included for each recipe and a home page
